@@ -66,5 +66,3 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 [cordova-whitelist-guide]: https://cordova.apache.org/docs/en/dev/guide/appdev/whitelist/index.html
 [cordova-plugin-whitelist]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist
 [cordova-plugin-whitelist-csp]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist#content-security-policy
-[csp-is-awesome]: http://cspisawesome.
-                            string sendURL = "http://103.16.101.52:8080/bulksms/bulksms?username=sse-hsrphr&password=hsrphr&type=0&dlr=1&destination=" + txtMobileno.Text.ToString() + "&source=HRHSRP&message=" + SMSText
